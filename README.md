@@ -5,6 +5,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
+:book: [Clique aqui para ler](https://github.com/LariVital/Ebook-IA/blob/main/ebook/ebook-IA.pdf)
 
 💻 Tecnologias utilizadas no projeto:
 
